@@ -1,7 +1,7 @@
 Sou João Pedro Rodrigues, graduando em **Sistemas de Informação** pela **Universidade Estadual de Montes Claros**, MG. Foco meu desenvolvimento em aplicações web full stack. Tenho grande interesse por UI/UX e busco aplicar esses conceitos para criar soluções que sejam tecnicamente sólidas e intuitivas para o usuário. No momento, dedico meus estudos ao aprofundamento em frameworks JavaScript e arquitetura de software para construir sistemas cada vez mais robustos e escaláveis.
 
 ### Tecnologias
-<div style="display: inline">
+<div style="display: flex; flex-direction: row">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>    
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
